@@ -1,0 +1,4 @@
+﻿中英
+tb_pc 9.7
+tb_phone 16.35
+tb_ware 1.79
